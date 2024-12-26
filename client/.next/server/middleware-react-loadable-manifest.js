@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\(user)\\\\game\\\\page.tsx -> react-chessboard\":{\"id\":\"app\\\\(user)\\\\game\\\\page.tsx -> react-chessboard\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_react-chessboard_dist_index_esm_js.js\"]}}"

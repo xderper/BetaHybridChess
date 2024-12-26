@@ -1,0 +1,6 @@
+{
+  "/api/games/route": "app/api/games/route.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/(user)/page": "app/(user)/page.js",
+  "/(user)/game/page": "app/(user)/game/page.js"
+}
